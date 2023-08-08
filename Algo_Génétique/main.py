@@ -1,4 +1,4 @@
-import pygame
+gitimport pygame
 from random import randint
 
 resolution = (1000,600)
